@@ -1,4 +1,4 @@
-# awesom-sdxl-prompts
+# awesome-sdxl-prompts
 
 |prompt  |imageurl|scheduler, guidance scale, steps|
 |--------|--------|----|
