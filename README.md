@@ -12,3 +12,4 @@ the *non-bold* text is replacable and just the object shown in the example image
 |**pixar style, cartoon** *lion* **mascot with adorable eyes, friendly, waving to the camera, cinematic lighting**|![](https://pbxt.replicate.delivery/BhcCm6iqcO6cIRkPfWIfqfEzQ7neHk10ZTeeu5YAUeFiBk7qIA/out-0.png)|K_EULER, 7.5, 50|
 |*an elephant* **on a water-floating island, photo-realistic, 3d Render**|![](https://pbxt.replicate.delivery/8BeBkB2G2Q22Qyio7I1ZPu56Xf4LXFDkGEeITVlgk2bxLsriA/out-0.png)|K_EULER, 7.5, 50|
 |*an elephant* **on an in the air floating island, 3d Render**|![](https://pbxt.replicate.delivery/BdpihycoYcoiBFfpkceo11uXqb0WgT5BrRFXfAsMmUoIVsriA/out-0.png)|K_EULER, 7.5, 50|
+|*penguin* **with its natural habitat in a big bottle**|![](https://pbxt.replicate.delivery/HED7fWuOQORvfkeCH3Zlp2DZvh653bMKnYOMsYbGooqHwuriA/out-0.png)|K_EULER, 7.5, 50|
